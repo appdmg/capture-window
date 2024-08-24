@@ -16,6 +16,6 @@
     "ts-readme-generator": "^0.7.3"
   },
   "engines": {
-    "node": ">=8.10.0"
+    "node": ">=18"
   }
 }
